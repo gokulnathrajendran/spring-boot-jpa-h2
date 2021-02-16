@@ -29,5 +29,5 @@ Database schema `init.sql` contains the schema under Resources.
 `NOTE`- all the endpoints are ended as movies just for demo purposes.
 
 # Executing Instructions
-mvn clean install
+mvn clean install  
 mvn spring-boot:run
